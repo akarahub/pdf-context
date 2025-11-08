@@ -1,0 +1,6 @@
+log_dir: folder\
+base_model: gpt-oss:20b # Placeholder
+embedding_model: llama3 # Placeholder 
+local_url: http://localhost:11434
+chunk_size: 1000
+chunk_overlap: 100
